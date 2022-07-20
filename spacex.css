@@ -16,7 +16,7 @@ body::-webkit-scrollbar {
 }
 
 .bg {
-    background-image: url("/spacex-service-structures-g7f98x3gvwdpvt1k.jpg");
+    background-image: url("./image/spacex-service-structures-g7f98x3gvwdpvt1k.jpg");
     width: 100vw;
     height: 100vh;
     background-size: cover;
@@ -31,7 +31,7 @@ body::-webkit-scrollbar {
 }
 
 .bg2 {
-    background-image: url("/wallpaperflare.com_wallpaper\ \(6\).jpg");
+    background-image: url("./image/wallpaperflare.com_wallpaper\ \(6\).jpg");
     width: 100vw;
     height: 100vh;
     background-size: cover;
@@ -39,7 +39,7 @@ body::-webkit-scrollbar {
 }
 
 .bg3 {
-    background-image: url("/wallpaperflare.com_wallpaper\ \(5\).jpg");
+    background-image: url("./image/wallpaperflare.com_wallpaper\ \(5\).jpg");
     width: 100vw;
     height: 100vh;
     background-size: cover;
@@ -47,7 +47,7 @@ body::-webkit-scrollbar {
 }
 
 .bg4 {
-    background-image: url("/wallpaperflare.com_wallpaper\ \(1\).jpg");
+    background-image: url("./image/wallpaperflare.com_wallpaper\ \(1\).jpg");
     width: 100vw;
     height: 100vh;
     background-size: cover;
